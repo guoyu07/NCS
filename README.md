@@ -1,4 +1,4 @@
-csnotes
+NCS
 =======
 
-computer science notes
+Computer Science Notes
